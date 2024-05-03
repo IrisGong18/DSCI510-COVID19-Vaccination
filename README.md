@@ -25,3 +25,6 @@ These project aims to find the effectiveness of vaccination campaignsin reducing
    **source**: https://www.hospitalsafetygrade.org/all-hospitals
    
    **description**: This website provides hospital lists and their scores across the United States.
+
+## How to Use this Repository
+Final.py
