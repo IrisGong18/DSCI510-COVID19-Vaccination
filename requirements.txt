@@ -5,3 +5,5 @@ numpy
 pyproj
 requests
 beautifulsoup4
+sklearn
+datetime
