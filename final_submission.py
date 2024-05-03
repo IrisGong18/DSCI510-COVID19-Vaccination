@@ -15,7 +15,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-from statsmodels.tsa.arima.model import ARIMA
 from datetime import timedelta
 from sklearn.linear_model import LinearRegression
 
@@ -27,6 +26,7 @@ from sklearn.linear_model import LinearRegression
 
 # Get df from database 
 conn = sqlite3.connect('covid_data.db')
+cursor = conn.cursor()
 
 # Get deaths df
 query_deaths = """
