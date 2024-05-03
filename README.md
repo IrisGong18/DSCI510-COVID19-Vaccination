@@ -37,7 +37,7 @@ These project aims to find the effectiveness of vaccination campaignsin reducing
 ## How to Use this Repository
 Final.py contains all codes.
 
-## Methodology:
+## Methodology
 **Data collection:** Access API, web scrape
 
 **Data preprocessing:** Store the data in the sql database with the joint primary key of state and date. Harmonization of dates in different tables to facilitate subsequent analysis. Merge disparate databases with similar themes into a unified dataset. Refine the integration process to ensure seamless cohesion.
