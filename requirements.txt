@@ -5,5 +5,5 @@ numpy
 pyproj
 requests
 beautifulsoup4
-sklearn
+scikit-learn
 datetime
