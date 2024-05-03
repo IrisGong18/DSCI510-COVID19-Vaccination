@@ -39,5 +39,7 @@ Final.py contains all codes.
 
 ## Methodology:
 **Data collection:** Access API, web scrape
+
 **Data preprocessing:** Store the data in the sql database with the joint primary key of state and date. Harmonization of dates in different tables to facilitate subsequent analysis. Merge disparate databases with similar themes into a unified dataset. Refine the integration process to ensure seamless cohesion.
+
 **Data Analysis:** Apply linear regression and ARIMA models to forecast mortality rates and hospital workload. Visualize multiple variables on one trend graph to facilitate straightforward comparison.
