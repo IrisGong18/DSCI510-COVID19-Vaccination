@@ -7,13 +7,21 @@ These project aims to find the effectiveness of vaccination campaignsin reducing
 
 ## Data Sources
 1. ### Covid Tracking Data
-   source: https://covidtracking.com/data/api/version-2
-   description: This data source provides daily new cases and deaths of COVID-19 across various regions of the United States. I would like to use the API under the "single day of data for a state or territory" folder.
+   **source**: https://covidtracking.com/data/api/version-2
+   
+   **description**: This data source provides daily new cases and deaths of COVID-19 across various regions of the United States. I would like to use the API under the "single day of data for a state or territory" folder.
 
-2. ### COVID-19 Vaccinations in the United States,County
-   source: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh/data_preview
-   description: This data source provides vaccination status for different counties in the United States. The data contain specific numbers and proportions of people vaccinated with different doses.
+3. ### COVID-19 Vaccinations in the United States,County
+   **source**: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh/data_preview
+   
+   **description**: This data source provides vaccination status for different counties in the United States. The data contain specific numbers and proportions of people vaccinated with different doses.
 
-3. ### Hospital Facilities
-   source: https://covidtracking.com/data/hospital-facilities#-96.93729196668039,43.588482486816645,3.5
-   description: This website provides an overview of the COVID-19 burden on hospitals across various regions of the United States, including adult COVID-19 patients currently in hospital and percent of adult inpatient beds occupied by COVID-19 patients.
+4. ### Hospital Facilities I
+   **source**: https://covidtracking.com/data/hospital-facilities#-96.93729196668039,43.588482486816645,3.5
+   
+   **description**: This website provides an overview of the COVID-19 burden on hospitals across various regions of the United States, including adult COVID-19 patients currently in hospital and percent of adult inpatient beds occupied by COVID-19 patients.
+
+5. ### Hospital Facilities II
+   **source**: https://www.hospitalsafetygrade.org/all-hospitals
+   
+   **description**: This website provides hospital lists and their scores across the United States.
